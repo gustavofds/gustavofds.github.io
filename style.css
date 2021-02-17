@@ -44,6 +44,9 @@ em {
 #container-photo {
   display: inline-block;
   width: 200px;
+  padding: 5px;
+  background-color: #33658a;
+  border-radius: 5%;
 }
 
 #container-about-me {
