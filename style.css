@@ -58,3 +58,8 @@ em {
 #container-name {
   text-align: center;
 }
+
+ul li:nth-child(2n + 1) {
+  color: #2f4858;
+  font-weight: 600;
+}
