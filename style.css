@@ -4,6 +4,11 @@ h3 {
   font-family: monospace, sans-serif;
 }
 
+#gustavo-photo {
+  border-radius: 100%;
+  width: 200px;
+}
+
 #about-me-paragraph {
   font-family: "Ubuntu", sans-serif;
   line-height: 20px;
