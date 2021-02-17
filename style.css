@@ -51,3 +51,7 @@ em {
   width: 82%;
   margin-left: 20px;
 }
+
+#container-name {
+  text-align: center;
+}
