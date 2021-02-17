@@ -1,0 +1,37 @@
+h1,
+h2,
+h3 {
+  font-family: monospace, sans-serif;
+}
+
+#about-me-paragraph {
+  font-family: "Ubuntu", sans-serif;
+  line-height: 20px;
+}
+
+body {
+  background-color: #86bbd8;
+  font-family: "Lato", sans-serif;
+}
+
+strong,
+em {
+  font-size: 1.1em;
+}
+
+.unix-li,
+.bash-li {
+  font-size: 16px;
+}
+
+.git-li,
+.github-li {
+  font-size: 17px;
+}
+.html-li,
+.css-li {
+  font-size: 18px;
+}
+.js-li {
+  font-size: 19px;
+}
