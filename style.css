@@ -40,3 +40,14 @@ em {
 .js-li {
   font-size: 19px;
 }
+
+#container-photo {
+  display: inline-block;
+  width: 200px;
+}
+
+#container-about-me {
+  display: inline-block;
+  width: 82%;
+  margin-left: 20px;
+}
