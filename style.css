@@ -1,0 +1,65 @@
+h1,
+h2,
+h3 {
+  font-family: monospace, sans-serif;
+}
+
+#gustavo-photo {
+  border-radius: 100%;
+  width: 200px;
+}
+
+#about-me-paragraph {
+  font-family: "Ubuntu", sans-serif;
+  line-height: 20px;
+}
+
+body {
+  background-color: #86bbd8;
+  font-family: "Lato", sans-serif;
+}
+
+strong,
+em {
+  font-size: 1.1em;
+}
+
+.unix-li,
+.bash-li {
+  font-size: 16px;
+}
+
+.git-li,
+.github-li {
+  font-size: 17px;
+}
+.html-li,
+.css-li {
+  font-size: 18px;
+}
+.js-li {
+  font-size: 19px;
+}
+
+#container-photo {
+  display: inline-block;
+  width: 200px;
+  padding: 5px;
+  background-color: #33658a;
+  border-radius: 5%;
+}
+
+#container-about-me {
+  display: inline-block;
+  width: 80%;
+  margin-left: 20px;
+}
+
+#container-name {
+  text-align: center;
+}
+
+ul li:nth-child(2n + 1) {
+  color: #2f4858;
+  font-weight: 600;
+}
